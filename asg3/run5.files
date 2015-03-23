@@ -1,0 +1,3 @@
+test3.in: 4: also ignore blank lines
+test3.in: 5: this file contains nonexistent keys
+test3.in: 6: all output should be error messages
